@@ -1,0 +1,171 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+body{
+  scroll-behavior: smooth;
+}
+.heading{
+  display: flex;
+  position: fixed;
+  overflow: hidden;
+  background-color: white;
+  padding: 20px 10px;
+  width: 100%;
+  justify-content: space-between;
+}
+.logo{
+  float: left;
+  color: #2d2640;
+  text-align: center;
+  padding: 12px;
+  line-height: 10px;
+  border-radius: 4px;
+  margin-left: 40px;
+}
+.navigation{
+  float: right;
+  margin-top: 6px;
+  margin-right: 30px;
+}
+.navigation a{
+  margin-left: 20px;
+  font-size: 20px;
+  text-decoration: none;
+  transition: .2s;
+}
+.navigation a:hover{
+  color: aqua;
+}
+.hero{
+  height: 600px;
+  width: 100%;
+  padding-top: 120px;
+  background-color: #2d2640;
+}
+.man{
+  width: 30%;
+  float: right;
+  margin-top: 65px;
+  margin-right: 170px;
+}
+.para_heading{
+  font-size: 70px;
+  margin-left: 150px;
+  padding-top: 40px;
+  color: white;
+}
+.para{
+  margin-left: 150px;
+  margin-right: 809px;
+  color: white;
+}
+.btn{
+  padding: 17px 20px;
+  border: 2px solid white;
+  border-radius: 6px;
+  font-weight: bolder;
+  background-color: #2d2640;
+  color: white;
+  font-size: 20px;
+  margin-left: 150px;
+  margin-top: 50px;
+}
+.section2{
+  display: inline-flex;
+}
+.image1{
+  width: 60%;
+  margin-top: 100px;
+  margin-left: 230px;
+}
+.para2{
+  font-size: 60px;
+  margin-top: 200px;
+  margin-left: 140px;
+}
+
+.para3{
+  margin-left: 140px;
+  margin-right: 80px;
+}
+.btn2{
+  padding: 17px 20px;
+  border: 2px solid #2d2640;
+  border-radius: 6px;
+  font-weight: bolder;
+  background-color: white;
+  color: #2d2640;
+  font-size: 20px;
+  margin-left: 140px;
+  margin-top: 50px;
+}
+.porsion{
+  margin: auto;
+  margin-top: 150px;
+  height: 310px;
+  width: 80%;
+  font-size: 30px;
+  /* background-color: aquamarine; */
+}
+.even{
+  display: flex;
+  justify-content: space-between;
+}
+.para7{
+ font-size: 45px;
+}
+.parag1{
+  width:25%
+}
+.para6{
+  font-size: 15px;
+  margin-top: 10px;
+}
+.img2{
+  width: 20%;
+  margin-top: 45px;
+  margin-bottom: 30px;
+}
+.porsion1{
+  width: 80%;
+  height: 262px;
+  background-color: #2d2640;
+  margin: auto;
+  color: white;
+  margin-top: 80px;
+  
+}
+.para8{
+  font-size: 45px;
+  line-height: 60px;
+  margin-top: 80px;
+  margin-left: 70px;
+}
+.btn3{
+  padding: 17px 20px;
+  border: 2px solid white;
+  border-radius: 6px;
+  font-weight: bolder;
+  background-color: #2d2640;
+  color: white;
+  font-size: 20px;
+  margin-top: 100px;
+  margin-right: 70px;
+}
+.work{
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.header_nav-logo{
+    width: 90;
+}
+.header_nav-items{
+  justify-content: space-between;
+}
+.rahu{
+  width: 470px;
+}
